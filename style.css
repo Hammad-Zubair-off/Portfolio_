@@ -477,7 +477,7 @@ nav > img {
   flex-direction: column;
   justify-content: center;
   gap: 14px;
-  background:url(banner\ desktop\ img.png);
+  background:url(images/banner\ desktop\ img.png);
 }
 
 .intro {
