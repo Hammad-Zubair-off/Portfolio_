@@ -220,9 +220,8 @@ nav > img {
 }
 
 .action button:hover {
-  background: #6070FF;
+  color: #6070FF;
   box-shadow: 0px 8px 16px 0px #4053FC3D;
-  color: white;
   background-color: #f0f2f8;
 }
 

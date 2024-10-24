@@ -7,7 +7,9 @@
   "description": "",
   "main": "index.js",
   "devDependencies": {
-    "hint": "^7.1.13"
+    "hint": "^7.1.13",
+    "stylelint": "^16.10.0",
+    "stylelint-config-standard": "^36.0.1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
