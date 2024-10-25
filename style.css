@@ -127,7 +127,7 @@ nav > img {
   height: 220px;
   gap: 0;
   border-radius: 8px;
-  opacity: 0;
+  opacity: 1;
 }
 
 .portfolio_article {
